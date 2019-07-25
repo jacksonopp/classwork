@@ -1,0 +1,87 @@
+.link1 {
+    color: blue;
+    background: red;
+}
+
+.link1:hover {
+    color: red;
+    background: blue;
+}
+
+.link1:focus {
+    color: green;
+    background: blue;
+}
+
+.link1:active {
+    color: green;
+    background: aqua;
+}
+
+/* link 2 */
+
+.link2 {
+    transform: rotate(20deg);
+    border: solid 1px black;
+}
+
+.link2:hover {
+    font-size: 900px;
+}
+
+.link2:focus {
+    transform: rotate(20deg);
+    color: yellow;
+    background: yellow;
+}
+
+.link2:active {
+    transform: rotate(20deg);
+    color: green;
+    background: aqua;
+}
+
+/* link 3 */
+
+.link3 {
+    color: blue;
+    background: red;
+}
+
+.link3:hover {
+    color: red;
+    background: blue;
+}
+
+.link3:focus {
+    color: green;
+    background: blue;
+}
+
+.link3:active {
+    color: green;
+    background: aqua;
+}
+
+link 4
+
+.link4 {
+    color: blue;
+    background: red;
+}
+
+.link4:hover {
+    color: red;
+    background: blue;
+}
+
+.link4:focus {
+    color: green;
+    background: blue;
+}
+
+.link4:active {
+    color: green;
+    background: aqua;
+}
+
