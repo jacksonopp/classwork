@@ -1,12 +1,15 @@
+body {
+}
+
 p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: #222;
+    /* color: yellow; */
+    transform: rotate(0.5deg);
 }
 
 .bold {
     font-weight: bold;
-    font-family: 'Roboto', sans-serif;
-}
+    font-family: 'Bungee Outline', cursive;}
 
 .fontSize {
     font-size: 24px;
@@ -15,5 +18,5 @@ p {
 
 .lineHeight {
     line-height: 50px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Monoton', cursive;
 }
