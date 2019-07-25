@@ -5,12 +5,15 @@ p {
 
 .bold {
     font-weight: bold;
+    font-family: 'Roboto', sans-serif;
 }
 
 .px24 {
     font-size: 24px;
+    font-family: 'Hanalei', cursive;
 }
 
 .lineHeight {
     line-height: 50px;
+    font-family: 'Montserrat', sans-serif;
 }
