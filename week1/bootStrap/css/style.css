@@ -1,0 +1,49 @@
+body{
+    width: 1080px;
+    margin: auto;
+}
+
+header {
+    background-color: rgb(52, 50, 52);
+    text-align: center;
+    color: #fff;
+}
+
+.content {
+    background-color: blue;
+    display: inline;
+    overflow: hidden;
+}
+
+.col1 {
+    float: left;
+    width: 25%;
+    /*background-color: red;*/
+}
+
+.col2 {
+    float: left;
+    /*background-color: blue;*/
+    width: 50%;
+    margin-top: 55.81px;
+}
+
+.col2 p {
+    /*margin-top: 0;*/
+}
+
+.col3{ 
+    float: left;
+    /*background-color: green;*/
+    width: 25%;
+}
+
+.clearfix{
+  display: table;
+  clear: both;
+}
+
+.buttonMiddle{
+    width: 300px;
+    margin: 0 auto !important;
+}
