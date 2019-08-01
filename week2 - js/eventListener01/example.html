@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Trigger Clicked</title>
+</head>
+<body>
+
+  <!-- Header with an id of click-me -->
+  <h3 id="click-me">CLICK ME!</h3>
+
+  <script type="text/javascript">
+
+    // First we select the element
+    const h3El = document.getElementById("click-me");
+
+    // Now we add an event listener
+
+    h3El.addEventListener("click", function() {
+      alert("I've been clicked!");
+    })
+
+</script>
+
+</body>
+</html>
