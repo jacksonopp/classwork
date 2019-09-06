@@ -148,11 +148,11 @@ const getGifs4 = (url) => {
 
 async function allTheGifs() {
     const responseJson1 = await getGifs4(search("cat"));
-    const responseJson2 = await getGifs4(search("cat"));
-    const responseJson3 = await getGifs4(search("cat"));
-    const responseJson4 = await getGifs4(search("cat"));
-    const responseJson5 = await getGifs4(search("cat"));
-    const responseJson6 = await getGifs4(search("cat"));
+    const responseJson2 = await getGifs4(search("bat"));
+    const responseJson3 = await getGifs4(search("mat"));
+    const responseJson4 = await getGifs4(search("rat"));
+    const responseJson5 = await getGifs4(search("fat"));
+    const responseJson6 = await getGifs4(search("hat"));
 
     console.log(responseJson1);
     console.log(responseJson2);
